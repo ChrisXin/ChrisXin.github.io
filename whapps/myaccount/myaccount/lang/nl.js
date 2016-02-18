@@ -1,3 +1,0 @@
-window.translate['myaccount'] = {
-	
-};
