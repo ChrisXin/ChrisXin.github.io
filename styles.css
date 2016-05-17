@@ -89,10 +89,9 @@ article{
 }
 
 ul{
-	list-style-type: none;
 	line-height: 40px;
-	margin:0px;
-	padding:0px;
+	margin:10px;
+	padding:10px;
 }
 
 li.linethrough {
